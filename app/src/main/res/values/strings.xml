@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TP2</string>
+    <string name="recherche">Recherche</string>
+    <string name="pr_sent">Présent</string>
+</resources>
